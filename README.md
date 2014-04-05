@@ -29,5 +29,5 @@ plainpages=false}
 \setmainfont{TeX Gyre Pagella}
 \newfontfamily\arial{Arial}
 ```
-
+Please, if you use these files separatedely or all of them, just link to this repository ou give proper authorship.
 
